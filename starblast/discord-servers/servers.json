@@ -1,0 +1,202 @@
+﻿[
+  {
+    "icon": "https://starblast.io/static/img/icon64.png",
+    "type": ["group"],
+    "name": "Starblast Main Discord",
+    "tag": "",
+    "active_regions": ["Asia-Australia", "America", "Europe", "Brazil"],
+    "description": "Main Starblast Discord Server",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/JwfJSFmXtn"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/Bhpsngum/SDC-public/master/img/logo.png",
+    "type": ["event", "mod"],
+    "name": "Starblast Dueling Championship",
+    "tag": "SDC",
+    "active_regions": ["Asia-Australia", "America", "Europe", "Brazil"],
+    "description": "Offical Server for Starblast Dueling Championship",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/5aK2WrzmMj"
+  },
+  {
+    "icon": "",
+    "type": ["mod"],
+    "name": "Starblast Racing Championship",
+    "tag": "SRC",
+    "active_regions": ["Asia-Australia", "America", "Europe", "Brazil"],
+    "description": "Offical Server for Starblast Racing Championship",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/TQM7H7T"
+  },
+  {
+    "icon": "https://cdn.discordapp.com/icons/803359316521386004/7bce6b2103d6f90ea81578b8a51047b8.png",
+    "type": ["clan"],
+    "name": "Armada",
+    "tag": "AR",
+    "active_regions": ["Asia-Australia", "America", "Europe"],
+    "description": "Armada - the clan based on quality over quantity.",
+    "public_invite": false,
+    "how_to_join": "[https://discord.gg/JwvC7F3ZY8](https://discord.gg/JwvC7F3ZY8), a test of skill is required to join the clan."
+  },
+  {
+    "icon": "",
+    "type": ["clan"],
+    "name": "Team Asia",
+    "tag": "TA",
+    "active_regions": ["Asia-Australia"],
+    "description": "",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/tHRxeQS"
+  },
+  {
+    "icon": "",
+    "type": ["clan"],
+    "name": "⚡Ⱡ₳₣➛𝔸𝕤𝕤𝕒𝕤𝕚𝕟𝕤💀😜",
+    "tag": "⚡Ⱡ₳₣➛",
+    "active_regions": ["America"],
+    "description": "A fun place to play with friends, share your highlights, participate in events. Improve your skills, level up, and host your own events!",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/nfEMwJ7e"
+  },
+  {
+    "icon": "https://i.ibb.co/Y09NWJT/infernosquadron.png",
+    "type": ["clan"],
+    "name": "Inferno Squadron",
+    "tag": "🔥𝐈Ş",
+    "active_regions": ["America", "Europe"],
+    "description": "Welcome to the Inferno Squadron!\nOur clan was formed when two close friends decided to unite their friends together in order to form closer bonds and become better at StarBlast. Almost one year later, after tons of hard work and determination, we're one of the largest clans in StarBlast. Why are we the best for you?\n - Constant Renovations: We are always looking for ways to make StarBlast easier and more comfortable for our members. Our High Council is constantly voting on new proposals to make our server better.\n - Welcoming Environment: Our server is a friendly community. Upon arrival, you will be warmly welcomed, whether you're joining the clan, or joining the server as a guest. We treat our members with respect, and support a non-toxic environment. - Active Staff: Our moderators and admins, when not helping update the server, are socializing and playing StarBlast with our many members.\n - ANTI STACK POLICY: WE DON'T STACK! One of the problems people have with clans is stacking. We don't do this! Our goal is to make game play fun and enjoyable for our members, not to win unfairly.\n - Unique Events: Currently, we are hosting TWO ship building events! Ship builders, please come, as here you can show off your skills! We have a community ship tree AND a Galactic Empire vs New Republic CTF/Rumble mod idea! We also need a modder to make these mods, so if anyone could help, please join our server!\n - Clan Loyalty: Need more proof you should join? Our server is living proof! Of our 160 server members, 90 are in the clan! You won't see this ratio of loyal members in any other public clan server. Our members love the Inferno Squadron!\n - Unity: The most important of all of these points, unity is why IS is still around, and has helped us weather our harder times. There is no toxicity in this clan because of it.\nSo please, come check us out! There are many more amazing things we would love to tell you about!",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/GwufZc4b6C"
+  },
+  {
+    "icon": "",
+    "type": ["clan"],
+    "name": "Flammable Violets",
+    "tag": "✯F℣➛",
+    "active_regions": ["America"],
+    "description": "We look for good skill duel to become a member or a guest",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/z3C458DMD8"
+  },
+  {
+    "icon": "icons/Cosmic_Conquerors.png",
+    "type": ["group"],
+    "name": "Cosmic Conquerors",
+    "tag": "𝓒𝓒",
+    "active_regions": ["Asia-Australia"],
+    "description": "Welcome to Cosmic Conquerors! In this group we play games together, while supporting each other very well... We actually do follow rules of SDF so never team in survival mode! And other things you can get to know as you spend some time in the server! Hope you enjoy!",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/PJxwHDGJ63"
+  },
+  {
+    "icon": "https://i.imgur.com/44UZwMy.jpeg",
+    "type": ["group"],
+    "name": "Instinct Nation",
+    "tag": "IN",
+    "active_regions": ["Asia-Australia", "America", "Europe", "Brazil"],
+    "description": "Competitive, Elite, Tested By certified Starblast players for Elite, Main,  or Sub Team.",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/2dmejRjHC5"
+  },
+  {
+    "icon": "",
+    "type": ["others"],
+    "name": "Team For Everyone",
+    "tag": "✯",
+    "active_regions": ["America", "Europe"],
+    "description": "A team were every players can join and hang out",
+    "public_invite": false,
+    "how_to_join": "[https://discord.gg/sGfwZ9BDfj](https://discord.gg/sGfwZ9BDfj) (there a verification test when you join)"
+  },
+  {
+    "icon": "",
+    "type": ["group", "others"],
+    "name": "Starblast Survival Revival",
+    "tag": "",
+    "active_regions": ["Unspecified"],
+    "description": "Survival Revival is a project started by @𝙶𝚊𝚗𝚢𝚖𝚎𝚍𝚎, @AY_KE and @【𝕐𝔸】𝐋𝐞𝐚𝐝𝐞𝐫™ with the intention to revive one of the most deserted and yet the first ever mode in the game.  We try to revive the mode by planning multiple events a week, most of them taking place in public survival, and playing regularly with each other in general. One of the episodic events is called \"Nightly Game Of Survival\" as a reference to \"Game Of The Night\", but taking place in public survival mode.",
+    "public_invite": false,
+    "how_to_join": "Link can be granted in dms by asking Purple_#7716, 【𝕐𝔸】𝐋𝐞𝐚𝐝𝐞𝐫™#0126 or AY_KE#4519"
+  },
+  {
+    "icon": "icons/USDF.png",
+    "type": ["clan"],
+    "name": "𝑈𝑛𝑖𝑡𝑒𝑑 𝑆𝑝𝑎𝑐𝑒 𝐷𝑒𝑓𝑒𝑛𝑠𝑒 𝐹𝑜𝑟𝑐𝑒𝑠",
+    "tag": "{𝑈𝑆𝐷𝐹}",
+    "active_regions": ["Asia-Australia", "America"],
+    "description": "",
+    "public_invite": false,
+    "how_to_join": "[https://discord.gg/jdk8qWd4Pz](https://discord.gg/jdk8qWd4Pz),  After accessing the link, send a message to {𝑈𝑆𝐷𝐹} nuked pearl harbor #0253 to ask for a member role via DM."
+  },
+  {
+    "icon": "",
+    "type": ["clan"],
+    "name": "War Empire",
+    "tag": "",
+    "active_regions": ["America"],
+    "description": "This is a rising clan. Couple small problems being worked out expect server to be as have events and stuff in a week or 2",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/yGp9pPMQKv"
+  },
+  {
+    "icon": "",
+    "type": ["clan"],
+    "name": "Elite Squadron",
+    "tag": "🔹★",
+    "active_regions": ["America", "Brazil"],
+    "description": "",
+    "public_invite": false,
+    "how_to_join": "DM 🔹 ΣLIƬΣ SƬΛⱤ★#2161 for information"
+  },
+  {
+    "icon": "",
+    "type": ["group"],
+    "name": "Starblast Commander",
+    "tag": "",
+    "active_regions": ["Unspecified"],
+    "description": "A fun server for everyone where you could chat, play games with other server members and lots more!",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/BYsVmeyehD"
+  },
+  {
+    "icon": "https://media.discordapp.net/attachments/855267239531905046/1010733297921425438/MCST_Logo.jpg",
+    "type": ["event", "mod"],
+    "name": "MCST Station",
+    "tag": "",
+    "active_regions": ["Asia-Australia", "America", "Europe", "Brazil"],
+    "description": "Server related to news, events and discussions based off MCST",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/AdrRgvV69s"
+  },
+  {
+    "icon": "https://cdn.discordapp.com/attachments/769345416281325579/1013859713429016717/ezgif-3-bcc9dc4f46.gif",
+    "type": ["group"],
+    "name": "Mega's World",
+    "tag": "",
+    "active_regions": ["America", "Europe"],
+    "description": "A starblast based community, but also mulitgaming",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/KXvCq4N"
+  },
+  {
+    "icon": "https://media.discordapp.net/attachments/769345416281325579/912794933335842866/7d3787e845ed645bc36f2dahsqjdfjhkhjqusdhjklfjkqshldhjfjkhlqshjdjklhf08c7133d4.png",
+    "type": ["clan", "group"],
+    "name": "FR's Team",
+    "tag": "ҒꝚ▸",
+    "active_regions": ["Europe"],
+    "description": "A French Team based on starblast, (specifications: you MUST be fluent in French and have minimal amount of skills to join the server)",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/eS6hK4nQKX"
+  },
+  {
+    "icon": "https://media.discordapp.net/attachments/982914876190122063/1026400796478292019/unknown.png",
+    "type": ["clan", "group"],
+    "name": "𝑴𝒂𝒊𝒅'𝒔 𝑪𝒂𝒇𝒆 ☕",
+    "tag": "❰☕❱",
+    "active_regions": ["America", "Europe"],
+    "description": "Hello Commanders! You are cordially invited to Maid's Cafe to have a good time playing and talking about our different available themes, Starblast, Among Us, Pinturillo, Mc etc. Also if you are interested, you can join our clan of veteran and friendly people, here you will learn great things with us! \"We never leave a single one\" ❰ ☕ ❱, ¡Maid's Cafe is mostly Spanish speaking!",
+    "public_invite": true,
+    "how_to_join": "https://discord.gg/p972H6evdZ"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "Starblast Map Editor",
+  "short_name": "SME",
+  "description": "Create and edit custom Starblast Maps, easy to use.",
+  "icons": [
+    {
+      "src": "/starblast/mapeditor/icon_dark.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/starblast/mapeditor/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#666666",
+  "background_color": "#181A1B"
+}

@@ -1,0 +1,181 @@
+3.4.0/Aug 4, 2025
+Updated by JavRedstone
+* Complete visual rework with modern sidebar design
+* Added new diagonal mirror options (d1 and d2)
+* Enhanced UI/UX with improved styling and layout
+* Modernized interface elements and color scheme
+
+3.3.0.4/Sep 11, 2024
+* Preserve other input parameters in URL instead of clearing them all (after processing maps)
+
+3.3.0.3/Nov 12, 2022
+* Fixed precision on map border
+* Added option to remove all local data in Miscellaneous Tab
+* Removed beta version.
+WARNING:\n
+We have changed the way we organize your local data, hence all your current local data won't be readable anymore. To remove those chunk data, please visit "https://bhpsngum.github.io/?clearalldata"\n
+This is a follow-up update of a next version (3.3.1), which will be in a few hours to a few days.
+
+3.3.0/Nov 5, 2022
+Introducing new features: Extended importing options
+* You can choose to align the map you want to import in the current map without clearing or changing the old size
+* Try the feature to learn more
+* Fixed the bug that the tool doesn't recognize Command (Cmd) Key on MacOS as shortcut
+* Added feature to import map from clipboard
+* Fixed map text parser not be able to parse map in some cases
+
+3.2.0/May 18, 2021
+Now introducing IDMapper (BETA)!
+* Now you can create maps with real map ID from the game!
+* Little bugs fixed
+
+3.1.6/Mar 11, 2021
+* Both the Main and Beta version can now be installed as PWA apps.
+
+3.1.5/Feb 4, 2021
+* Little fixes to support older browser versions (except IE)
+* Added Cartesian and Mixed Coordinates views (inside Map Tab), updated the brush codes to support those new features.
+
+3.1.4/Jan 1, 2021
+HAPPY NEW YEAR 2021! :)
+* New feedback link shortener: "https://bhpsngum.github.io/redirect?id=MapEditorFeedback"
+* Little improvements and fixes
+
+3.1.3/Dec 7, 2020
+* Anti-zooming mechanism: Only the map can be zoomed in/out
+* Added version string in the Tab Menu
+* Added some Brush Code detector rules
+
+3.1.2/Oct 28, 2020
+* Patched a bug that allows user to execute commands when uploading map file
+
+3.1.1/Oct 22, 2020
+* Added show/hide map border as suggested by the community (Shortcut Ctrl (or Cmd) + B)
+
+3.1.0/Oct 19, 2020
+* (BETA) Added custom Brush and brush code interface for coders (in Advanced Tab)\n
+See the documents for more info
+
+3.0.6/Oct 10, 2020
+* Added support for mobile browsers:
+Swipe with 1 finger to create asteroid trails\n
+Swipe with 2 or more fingers to navigate in the map
+
+3.0.5/Oct 8, 2020
+* Added 'import custom background image' and its extended options
+* Redesigned the Map Menu
+You can read the documentation for more details ^^
+
+3.0.4/Sep 30, 2020
+IMPORTANT:
+* Once again, map permalink is compressed and shortened (thanks to 123 Notus with his awesome idea and suggesting the library)
+* We detected an issue that 'Copy Image' is unavailable in some browsers/browser versions.
+We placed the indicator text telling you when it is and the 'Copy Image' feature will be disabled in those browsers.\n
+We will find optimal solutions for this problem soon. Sorry for that :(
+
+3.0.3/Sep 25, 2020
+* Added undo + redo buttons (these features actually have existed for a long time but seems that no-one knows its existence)
+also fixed bugs relating to undo + redo actions
+* Added shortcuts for import and copy map as text. See the tutorial for more details
+* Feedback link shortener: "https://bhpsngum.github.io/starblast/mapeditor/?feedback"
+IMPORTANT!
+* There is a slight change in Map Permalink, you'll be asked to redirect to new permalink whenever you use the old permalink.
+This feature will be deprecated soon, so remember to save your new one :)
+
+3.0.2/Sep 14, 2020
+* Bug fixed: Weird map history and future when using random asteroid drawer
+* Little work in improving efficiency
+
+3.0.1/Sep 11, 2020
+* Change copy algorithm + added Copy Map screenshot
+* Added tutorial, visit here: "https://github.com/Bhpsngum/starblast/blob/master/MapEditorTutorial.md"
+* Added changelog page
+
+3.0.0/Sep 9, 2020
+MAP EDITOR 3.0!
+* Remake the map from table to canvas
+* Hyper improvements in efficiency
+
+2.3.1/Sep 8, 2020
+* Removed Google Analytics
+
+2.3.0/Sep 5, 2020
+* Added map screenshot feature
+* Breaking Map Editor beta for new updates
+
+2.2.0/Aug 4, 2020
+* Added Mirror Mapping
+* Small improvements
+
+2.1.0/Jul 31,2020
+* Added Random Asteroid size drawer and more Brush option
+* Fixed bug from shortcuts & redo/undo
+
+2.0.0/Jul 26, 2020
+Map Editor 2.0: The Remake!
+* Optimized the tool for efficiency
+* Added redo/undo (shortcuts are the same)
+* Added old version, visit here: "https://bhpsngum.github.io/starblast/mapeditor/old.html"
+* Bug fixed (a lot!)
+
+1.7.3/Jul 25, 2020
+* Destructing the beta version for testing new updates
+
+1.7.2/Jul 21, 2020
+* Fixed Firefox compatibility
+
+1.7.1/Jul 16, 2020
+* Fixed problem: permalink map is slightly different from the original one
+* Little design changes
+
+1.7.0/Jun 28, 2020
+* Added RandomMazeGenerator by rvan_der
+* Map size input now only accepts EVEN values from 20 to 200
+
+1.6.1/Jun 17, 2020
+* Added Asteroid color selection
+
+1.6.0/Jun 12, 2020
+* Map Creator main and beta versions are now moved to a new site: "https://bhpsngum.github.io/starblast/mapeditor/", also renamed to Map Editor
+* More bugs fixed
+
+1.5.1/May 7, 2020
+* Added Google Analytics.
+
+1.5.0/May 5, 2020
+* Added custom color design
+* Removed asteroid mouse cursor
+* Bug fixed
+
+1.4.0/May 3, 2020
+* Added permalink, change text button to icon button
+* Bug fixed
+
+1.3.0/Apr 30, 2020
+* Added dark/light icon sensor
+* Added info (bottom right corner of the screen)
+* Bug fixed
+
+1.2.0/Apr 29, 2020
+* Efficiency update
+* Replace cursor with asteroid size
+* Bug fixed
+
+1.1.0/Apr 27, 2020
+* Added trails: Hold and drag for Asteroid trails.
+* Right mouse click is now used to clear asteroids instantly
+* Added feedback link
+* Now you can use W/A/S/D to navigate up/right/down/left inside the web
+* Added Import Map option.
+* Added Brush: draw a square of 2*n+1 in each sides with the cell nearest your mouse cursor at the center
+* Added beta version, visit here: "https://bhpsngum.github.io/starblast/mapcreator/beta/"
+* Bug fixed
+
+1.0.0/Apr 26, 2020
+Map Editor 1.0:
+* Input map size from 20 in 200 in the first input Box.
+* Choose the asteroid from the select table.
+* Click to draw asteroid.
+* Click Clear Map to clear the whole map
+* Click Copy/Export Map to do its function
+* You can view Asteroid info in the bottom left corner of the screen

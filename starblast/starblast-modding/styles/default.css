@@ -1,0 +1,73 @@
+.type-signature {
+  float: right;
+  border-radius: 3pt;
+  padding: 2pt;
+  margin-left: 5pt;
+  font-size: 63%;
+  order: 1000;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.type-signature.readonly {
+  background-color: blue;
+  color: #cde;
+}
+
+.subsection-title {
+  border-top: 1px solid white;
+  padding-top: 10px;
+}
+
+.type-signature.async {
+  background-color: orange;
+  color: #cde;
+}
+
+.name:not(td, .container-overview > h4) {
+  display: table;
+  font-weight: bold;
+  font-size: 25px
+}
+
+div.spacing {
+  background-image: linear-gradient(to right, rgba(232, 230, 227, 1), rgba(0,0,0,0));
+  margin-bottom: 20px;
+  height: 1px;
+}
+
+footer {
+  color: inherit;
+  text-align: center;
+}
+
+code {
+  background: transparent;
+}
+
+code:not(.prettyprint code) {
+  color: whitesmoke;
+}
+
+.prettyprint code {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  line-height: inherit;
+}
+
+h2, h3 {
+  font-weight: bold;
+}
+
+.class-description {
+  font-size: inherit;
+}
+
+dl.param-type {
+  border: none;
+  padding-bottom: 0;
+}
+
+footer {
+  border-top: 1px solid whitesmoke;
+}

@@ -15,7 +15,7 @@
       // GitHub Pages project sites live below /<repository>/, while legacy
       // pages in this repository still describe images as /starblast/... .
       const url = clean.startsWith("/") && !clean.startsWith("//")
-        ? new URL(clean.replace(/^\\/+/, ""), projectRoot)
+        ? new URL(clean.slice(1), projectRoot)
         : new URL(clean, baseUrl);
       if (url.protocol !== "http:" && url.protocol !== "https:") return null;
       return url;
